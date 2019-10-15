@@ -1,10 +1,15 @@
 # Disaster Mapping
 
+
 Code for:  
 
-**CNN-Based Semantic Change Detection in Satellite Imagery**, Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, ICANN 2019
+[**CNN-Based Semantic Change Detection in Satellite Imagery**](https://link.springer.com/chapter/10.1007/978-3-030-30493-5_61), Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, ICANN 2019
 
-**Post Disaster Mapping With Semantic Change Detection in Satellite Imagery**, Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, CVPRW 2019
+[**Post Disaster Mapping With Semantic Change Detection in Satellite Imagery**](http://openaccess.thecvf.com/content_CVPRW_2019/html/WiCV/Gupta_Post_Disaster_Mapping_With_Semantic_Change_Detection_in_Satellite_Imagery_CVPRW_2019_paper.html), Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, CVPRW 2019
+
+## Introduction
+
+Our work focuses on identifying road networks and buildings in post-disaster scenarios using publicly available satellite imagery and neural networks for segmentation. We use a change detection framework to identify areas impacted by the disaster and use inspiration from graph theory to update road network data available from OpenStreetMap in the aftermath of a disaster.
 
 
 ## Dataset 
