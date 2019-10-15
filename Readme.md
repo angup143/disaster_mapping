@@ -39,7 +39,7 @@ Generate road, building, combined segmentation masks using trained models
 > extract_osm_diff.py
 
 
-## CITATION
+## Citation
 
 Please consider citing the following if you find this work useful:
 
