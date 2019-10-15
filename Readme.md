@@ -2,9 +2,9 @@
 
 Code for:  
 
-**CNN-Based Semantic Change Detection in Satellite Imagery, ICANN 2019**
+**CNN-Based Semantic Change Detection in Satellite Imagery**, Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, ICANN 2019
 
-**Post Disaster Mapping With Semantic Change Detection in Satellite Imagery, CVPRW 2019**
+**Post Disaster Mapping With Semantic Change Detection in Satellite Imagery**, Ananya Gupta, Elisabeth Welburn, Simon Watson & Hujun Yin, CVPRW 2019
 
 
 ## Dataset 
