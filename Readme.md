@@ -55,6 +55,7 @@ Generate road, building, combined segmentation masks using trained models
 ## Citation
 
 Please consider citing the following if you find this work useful:
+
     @article{gupta2020deep,
     title={Deep Learning-based Aerial Image Segmentation with Open Data for Disaster Impact Assessment},
     author={Gupta, Ananya and Watson, Simon and Yin, Hujun},
