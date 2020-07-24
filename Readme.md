@@ -29,6 +29,19 @@ Segmentation training code based on [TernausNet](https://github.com/ternaus/robo
 
 > python  aerial_train.py
 
+This script includes the following models and backends:
+- 'UNet11': UNet (VGG11),
+- 'UNet16': UNet (VGG16),
+- 'UNet18': UNet (ResNet18)
+- 'UNet34': UNet (ResNet34)
+- 'UNet11Upsample' : UNet (VGG11 with linear upsampling),
+- 'UNet16Upsample' : UNet (VGG16 with linear upsampling),
+- 'UNet18Upsample' : UNet (ResNet18 with linear upsampling),
+- 'UNet34Upsample' : UNet (ResNet34 with linear upsampling),
+- 'LinkNet18': LinkNet (ResNet18),
+- 'LinkNet34': LinkNet (ResNet34)
+              
+
 ## Disaster Mapping
 
 Generate road, building, combined segmentation masks using trained models
@@ -42,6 +55,12 @@ Generate road, building, combined segmentation masks using trained models
 ## Citation
 
 Please consider citing the following if you find this work useful:
+    @article{gupta2020deep,
+    title={Deep Learning-based Aerial Image Segmentation with Open Data for Disaster Impact Assessment},
+    author={Gupta, Ananya and Watson, Simon and Yin, Hujun},
+    journal={arXiv preprint arXiv:2006.05575},
+    year={2020}
+    }
 
     @inproceedings{gupta2019cnn,
     title={CNN-Based Semantic Change Detection in Satellite Imagery},
